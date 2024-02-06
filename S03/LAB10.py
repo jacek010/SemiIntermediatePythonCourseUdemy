@@ -1,6 +1,6 @@
 ports = ['WAW', 'KRK', 'GDN', 'KTW', 'WMI', 'WRO', 'POZ', 'RZE', 'SZZ',
          'LUZ', 'BZG', 'LCJ', 'SZY', 'IEG', 'RDO']
-
+print("LAB10")
 
 connections = [(start, end) for start in ports for end in ports]
 print("All connections", len(connections))
