@@ -20,4 +20,4 @@ dict_denominations[50] += 1
 dict_denominations[2] += 1
 
 for key in sorted(dict_denominations.keys()):
-    print(f"Denominate: {key} - amount {dict_denominations[key]}")
+    print(f"Denominate: {key:6.2f} - amount {dict_denominations[key]}")
