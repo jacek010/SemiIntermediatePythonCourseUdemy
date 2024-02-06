@@ -1,3 +1,4 @@
+
 ports = ['WAW', 'KRK', 'GDN', 'KTW', 'WMI', 'WRO', 'POZ', 'RZE', 'SZZ',
          'LUZ', 'BZG', 'LCJ', 'SZY', 'IEG', 'RDO']
 print("LAB10")
