@@ -1,0 +1,2 @@
+info -> Starting processing forecasting  |  
+type -> ERROR  |  info -> Not enough data  |  file -> invoices  |  date -> 2020  |  
