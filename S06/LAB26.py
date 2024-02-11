@@ -18,5 +18,9 @@ def show_cake_info(cake):
         cake['taste'], cake['glaze'], cake['text'], cake['weight']))
 
 
-show_cake_info(cake_01)
-show_cake_info(cake_02)
+cakes = [cake_01, cake_02]
+
+for cake in cakes:
+    show_cake_info(cake)
+
+
